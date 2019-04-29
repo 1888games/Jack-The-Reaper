@@ -57,7 +57,7 @@ namespace InAudioSystem.InAudioEditor
             if (cleanupGO == null)
             {
                 cleanupGO = Resources.Load("PrefabGO") as GameObject;
-                DontDestroyOnLoad(cleanupGO);
+                //DontDestroyOnLoad(cleanupGO);
             }
 
 

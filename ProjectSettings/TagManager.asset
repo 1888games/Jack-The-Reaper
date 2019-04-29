@@ -3,7 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
+  - Robot
+  - Platform
+  - Angel
+  - Up
+  - Down
+  - Left
+  - Right
   layers:
   - Default
   - TransparentFX
@@ -14,8 +22,8 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - 
-  - 
+  - Enemies
+  - Powerups
   - 
   - 
   - 
