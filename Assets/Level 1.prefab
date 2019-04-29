@@ -24,7 +24,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 447054459529334880}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 18, y: 22.45, z: -0.351}
+  m_LocalPosition: {x: 18.44, y: 22.55, z: -0.351}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 447054459775963068}
@@ -244,7 +244,7 @@ MonoBehaviour:
   activeSoul: {fileID: 0}
   rotationSpeed: 5
   soulScore: 100
-  soulCollectedSound: {fileID: 237, guid: b32d257c8e8e04d90970dccfa09e4b04, type: 3}
+  soulCollectedSound: {fileID: 1753, guid: b32d257c8e8e04d90970dccfa09e4b04, type: 3}
   scoreTextPrefab: {fileID: 6011080747328324871, guid: e1301783abe7e485db31dd938b16e209,
     type: 3}
   soulMultipier: 0
@@ -366,7 +366,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 447054461030603009}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8, y: 19.45, z: -0.793}
+  m_LocalPosition: {x: 8, y: 19.68, z: -0.793}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 447054459775963068}

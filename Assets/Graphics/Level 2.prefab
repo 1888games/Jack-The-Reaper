@@ -191,7 +191,7 @@ MonoBehaviour:
   activeSoul: {fileID: 0}
   rotationSpeed: 5
   soulScore: 100
-  soulCollectedSound: {fileID: 237, guid: b32d257c8e8e04d90970dccfa09e4b04, type: 3}
+  soulCollectedSound: {fileID: 1753, guid: b32d257c8e8e04d90970dccfa09e4b04, type: 3}
   scoreTextPrefab: {fileID: 6011080747328324871, guid: e1301783abe7e485db31dd938b16e209,
     type: 3}
   soulMultipier: 0
